@@ -44,11 +44,13 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="#about">About Us</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
+          <li><a href="#about">Sobre Nós</a></li>
+          <li><a href="#services">Serviços</a></li>
+          <li><a href="#portfolio">Portfólio</a></li>
+          <li><a href="#team">Algo pra adiconar</a></li>
+
+         <!-- Retirada do menu suspenso 
+           <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -65,7 +67,7 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li>
-          <li><a href="#contact">Contact Us</a></li>
+          <li><a href="#contact">Contact Us</a></li> -->
 
           <li class="get-started"><a href="#about">Get Started</a></li>
         </ul>
@@ -151,34 +153,34 @@
       <div class="container">
 
         <div class="row">
-          <!--<div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>-->
-          <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"><img src="assets/img/sobrenos.jpg" class="img-fluid" style="width: 500px; height:400px;"></div>
-          <div class="col-xl-7 pl-0 pl-lg-5 pr-lg-1 d-flex align-items-stretch">
-            <div class="content d-flex flex-column justify-content-center">
-              <h3 data-aos="fade-in" data-aos-delay="100">Nos conheça um pouco</h3>
-              <p data-aos="fade-in">
+          <!--<div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+          <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"><img src="assets/img/sobrenos.jpg" class="img-fluid" style="width: 500px; height:400px;"></div>-->
+          <div class="col-xl-12 pl-0 pl-lg-5 pr-lg-1 d-flex ">
+            <div class="content d-flex flex-column">
+              <h3 data-aos="fade-in" data-aos-delay="100" style="text-align: center;">Sobre nós</h3>
+              <p data-aos="fade-in" style="text-align: center;">
                 Somos uma startup de inovação que acelera soluções e conecta empreendedores com o Público. Fazemos isso por apoiar empreendedores que estão interessados em buscar soluções para os desafios mais complexos vividos pela sociedade atual.
               </p>
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
                   <!--<i class="bx bx-receipt"></i>-->
-                  <h4><a href="#">Corporis voluptates sit</a></h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <h4><a href="#">Nosso Objetivo</a></h4>
+                  <p>Ajudar você a aumentar suas vendas e contratos, te ajudando a ser uma empresa que passe confiança para seus clientes ou se você for um profissional e deseja um portfólio como identidade visual, daremos uma visibilidade melhor para seus clientes e aumentando seus clientes.   </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <!--<i class="bx bx-cube-alt"></i>-->
-                  <h4><a href="#">Ullamco laboris nisi</a></h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4><a href="#">Nosso comprometimento</a></h4>
+                  <p>Nosso maior comprometimento é fazer com que você aumente suas chances de clientes, aumente suas vendas, aumente seus contratos, aumente seus lucros, ganhe respeito como empresa, como autõnomo, como profissional independente da área. </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                   <!--<i class="bx bx-images"></i>-->
-                  <h4><a href="#">Labore consequatur</a></h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <h4><a href="#">O que te oferecemos?</a></h4>
+                  <p>Te oferecemos um site elegante, moderno, atrativo, feito com as tecnologias existentes mais nova que existe no mundo tecnológico e também te oferecemos um site altamente responsivo ou seja seu site será adequado para ser visto por computadores com monitores grande, notbook, tablet e qualquer aparelho celular.</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <!--<i class="bx bx-shield"></i>-->
-                  <h4><a href="#">Beatae veritatis</a></h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <h4><a href="#">Por que fazer seu site conosco?</a></h4>
+                  <p>Nosso preocupação é com você! Nossa maior missão é agradar nossos clientes! Sua satisfação é nosso maior interesse, fazer um site que te agrade e que seja a personalidade de sua empresa ou contéudo que queira mostrar como profissional ou protfólio. Já ajudamos muitos clientes a ganhar novos clientes e queremos ajudar você nessa busca por novos resultados. </p>
                 </div>
               </div>
             </div><!-- End .content-->
