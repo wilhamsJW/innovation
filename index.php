@@ -43,13 +43,14 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
           <li><a href="#about">Sobre Nós</a></li>
           <li><a href="#services">Serviços</a></li>
           <li><a href="#portfolio">Portfólio</a></li>
-          <li><a href="#team">Algo pra adiconar</a></li>
+          <li><a href="#team">Hospedagem de sites</a></li>
+          <li><a href="#team">SEO</a></li>
 
-         <!-- Retirada do menu suspenso 
+          <!-- Retirada do menu suspenso 
            <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -83,7 +84,7 @@
       <div class="row d-flex align-items-center"">
       <div class=" col-lg-6 py-5 py-lg-0 order-2 order-lg-1" data-aos="fade-right">
         <h1>Por que ter um <b>SITE?</b></h1>
-        <h2>A reposta imediata é: para <i>ATRAIR CLIENTES!</i></h2>
+        <h2>A reposta imediata é: <i style="color: #050561; font-weight: 900; font-size:28px">PARA ATRAIR CLIENTES!</i></h2>
         <h2>para trazer confiança a minha empresa ou para a imagem que quero passar como profissional</h2>
         <h2>maior exposição da empresa</h2>
         <h2>crescimento das vendas</h2>
@@ -148,7 +149,57 @@
       </div>
     </section> End Clients Section -->
 
-    <!-- ======= About Section ======= -->
+
+    <!-- ======= About Section Por que ter um site? ======= -->
+    <section id="about" class="about section-bg">
+      <div class="container">
+
+        <div class="row">
+          <!--<div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+          <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"><img src="assets/img/sobrenos.jpg" class="img-fluid" style="width: 500px; height:400px;"></div>-->
+          <div class="col-xl-12 pl-0 pl-lg-5 pr-lg-1 d-flex ">
+            <div class="content d-flex flex-column">
+              <h3 data-aos="fade-in" data-aos-delay="100" style="text-align: center;">Por que ter um site?</h3>
+              <h4><a href="#" style="color: #050561;">1º Confiança na empresa ou na profissão que você atua</a></h4>
+              <p data-aos="fade-in" style="text-align: center;">
+                Ao fazer seu site, a sua empresa passa ainda mais uma imagem profissional para os consumidores, uma vez que a página na web possui informações relevantes a esses clientes, que consequentemente, exalta a reputação positiva da empresa para seus compradores. A credibilidade começa a ser criada por diversas formas, seja pela importância que a empresa atribui aos clientes, ou até mesmo, aos conteúdos informados em sua página oficial.
+              </p>
+              <div class="row">
+                <div class="col-md-6 icon-box" data-aos="fade-up">
+                  <!--<i class="bx bx-receipt"></i>-->
+                  <h4><a href="#">2º Maior exposição da empresa</a></h4>
+                  <p>Quando uma empresa tem a oportunidade de exibir seus produtos e serviços para os consumidores, ela certamente estará em constante “divulgação”, como uma espécie de “vitrine”, funcionando como protagonista, e quando aliada ao uso do marketing digital, servirá como ferramental ideal para que seu negócio possa obter excelentes resultados no espaço virtual, destaca a importância do “site para minha empresa”.
+                    Ter um site possibilita a exposição da sua empresa em qualquer lugar, sem precisar se limitar a aquele espaço físico, que permitirá o relacionamento com diversos púbicos, sem a necessidade de estarem presentes no local específico. Além disso, vale destacar que um site passa maior segurança ao cliente, que pode consultar as informações da organização quando necessitar de seus produtos ou serviços.
+                  </p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <!--<i class="bx bx-cube-alt"></i>-->
+                  <h4><a href="#">3º Conquistas de novos consumidores</a></h4>
+                  <p>Um site apresenta infinitas possibilidades de alcançar novos clientes para seu negócio, e para que isto ocorra, exiba para seu público-alvo o maior número de informações sobre o seu campo de atuação, que de fato sejam interessantes e despertem a leitura dos públicos.
+                    O site veio para trazer novos modos para a conquista de consumidores, que antes se limitava a ações locais, e agora pode atingir pessoas de diversas partes do mundo. Por meio da página na web, é possível manter um contato com uma pessoa do mesmo bairro, mas também de outro lado do continente. Essas medidas contribuem para o aumento de vendas na empresa, tornando-se alternativas</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                  <!--<i class="bx bx-images"></i>-->
+                  <h4><a href="#">4º Contato com o público alvo nas redes socias</a></h4>
+                  <p>O conteúdo de um site deve contar com os produtos e serviços oferecidos pela empresa, mas não significa que deva excluir outras formas de divulgação, como, por exemplo, as redes sociais, que são fundamentais para o crescimento dos negócios no espaço virtual.
+                    As Redes Sociais trouxeram diversos benefícios não somente para os usuários, mas também para as organizações, que agora possuem outras maneiras de fidelizarem seus clientes. Contar com um perfil nas plataformas virtuais “obriga” a marca a pensar em conteúdos que sejam realmente relevantes para o consumidor, que o façam a comprar seus produtos, aumentando o número de consumidores. Portanto, utilize o site como um cartão de visita no espaço virtual.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                  <!--<i class="bx bx-shield"></i>-->
+                  <h4><a href="#">5º Crescimento das vendas</a></h4>
+                  <p>Este tópico responde à pergunta “por que ter um site?”. A partir do momento em que a empresa percebe que as publicações no site oficial são interessantes para o cliente, pode aumentar a credibilidade em relação aos clientes e, como resultado, obter o crescimento das vendas.
+                    Quando uma empresa decide investir em um site, e passa a se dedicar na divulgação de seus produtos e serviços, consegue alcançar clientes diferenciados, fazendo com que as vendas aumentem. Portanto, dê uma atenção maior as descrições dos seus serviços e produtos, e consequentemente, terá atenção dos clientes.</p>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+
+    <!-- ======= About Section Sobre nós ======= -->
     <section id="about" class="about section-bg">
       <div class="container">
 
@@ -158,6 +209,7 @@
           <div class="col-xl-12 pl-0 pl-lg-5 pr-lg-1 d-flex ">
             <div class="content d-flex flex-column">
               <h3 data-aos="fade-in" data-aos-delay="100" style="text-align: center;">Sobre nós</h3>
+              <h4><a href="#" style="color: #050561;">Quem Somos?</a></h4>
               <p data-aos="fade-in" style="text-align: center;">
                 Somos uma startup de inovação que acelera soluções e conecta empreendedores com o Público. Fazemos isso por apoiar empreendedores que estão interessados em buscar soluções para os desafios mais complexos vividos pela sociedade atual.
               </p>
@@ -165,7 +217,7 @@
                 <div class="col-md-6 icon-box" data-aos="fade-up">
                   <!--<i class="bx bx-receipt"></i>-->
                   <h4><a href="#">Nosso Objetivo</a></h4>
-                  <p>Ajudar você a aumentar suas vendas e contratos, te ajudando a ser uma empresa que passe confiança para seus clientes ou se você for um profissional e deseja um portfólio como identidade visual, daremos uma visibilidade melhor para seus clientes e aumentando seus clientes.   </p>
+                  <p>Ajudar você a aumentar suas vendas e contratos, te ajudando a ser uma empresa que passe confiança para seus clientes ou se você for um profissional e deseja um portfólio como identidade visual, daremos uma visibilidade melhor para seus clientes e aumentando seus clientes. </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <!--<i class="bx bx-cube-alt"></i>-->
@@ -195,20 +247,24 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Services</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 data-aos="fade-in">Serviços</h2>
+          <p data-aos="fade-in">A WJsites oferece soluções especiais para cada tipo de necessidade que a sua empresa possa ter.
+            Quando se trata de Sites Institucionais, com a finalidade de mostrar seus serviços e/ou produtos, os serviços de Criação, Hospedagem, Manutenção (mensal e avulsa) e Otimização para Google são nosso ponto forte.
+            Estaremos sempre à disposição para atendê-lo da melhor maneira possível.
+            Se desejar saber mais sobre cada serviço oferecido pela WJSites, acesse nossos modelos de sites e escolha o seu!</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/services-1.jpg" alt="...">
+                <img src="assets/img/laptop.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Temporibus laudantium</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <h5 class="card-title"><a href="">Criação de Sites</a></h5>
+                <p class="card-text">A WJsites é Especialista na Criação de Sites Padrões, com Qualidade, Competência e Preço Justo!
+                  Todos nossos modelos são responsivos, modernos, dinâmicos, com fácil e rápida navegação. O site pode ser utilizado de forma institucional para apresentar uma empresa, produto ou serviço a quem interessar. Pode também gerir grandes volumes de informações, com sistemas integrados.
+                  Para uma empresa o principal objetivo de um site é fortalecer a marca, passar informações importantes sobre produtos e serviços e assim conseguir captação de clientes, leads, contatos, vendas.</p>
               </div>
             </div>
           </div>
@@ -218,9 +274,8 @@
                 <img src="assets/img/services-2.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Aperiores voluptates</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <h5 class="card-title"><a href="">Site com Design Responsivo</a></h5>
+                <p class="card-text">Site responsivo, também conhecido como site flexível é quando o site automaticamente se encaixa na tela do dispositivo do usuário sendo ele: PC, celular, tablet, notebook, etc. Um site responsivo muda a sua aparência e disposição com base no tamanho da tela em que o site é exibido. Então, se o usuário tem uma tela pequena, os elementos se reorganizam aumentando e diminuindo para lhe mostrar as coisas principais em primeiro lugar.</p>
               </div>
             </div>
 
@@ -228,12 +283,12 @@
           <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-right">
             <div class="card">
               <div class="card-img">
-                <img src="assets/img/services-3.jpg" alt="...">
+                <img src="assets/img/seo.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Veritatis natus nisi</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <h5 class="card-title"><a href="">Otimização GOOGLE SEO</a></h5>
+                <p class="card-text">Faça SEO, Otimize seu site! Obtenha um melhor posicionamento nos principais buscadores da internet.
+                  Quem não deseja estar entre os primeiros resultados de busca do Google? Está é a forma mais fácil de atrair leads, contatos, vendas, novos clientes. O SEO (Search Engine Optimization), são técnicas, estratégias, formas de programar e diagramar seu conteúdo com o objetivo de melhorar seu posicionamento nos resultados orgânicos dos mecanismos de busca. Otimizar seu site para deixá-lo leve, rápido e com agradável navegação, pois um dos fatores importantes é a experiência do usuário final. O Conteúdo de Qualidade, é de extrema importância, pois é o conteúdo que será analisado e rankeado pelos Buscadores.</p>
               </div>
             </div>
           </div>
@@ -243,9 +298,16 @@
                 <img src="assets/img/services-4.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Aliquam veritatis</a></h5>
-                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut incidunt aut</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <h5 class="card-title"><a href="">Manunteção Mensal de Sites</a></h5>
+                <p class="card-text">Mantenha o seu site sempre atualizado, com novos textos, fotos e vídeos.
+                  Mantenha seu site sempre atualizado para atrair novos clientes.
+                  A WJsites oferece serviço de manutenção de site aos seus clientes, com o intuído de deixar o site sempre atualizado, com novas informações, fotos, notícias da empresa, criação de novas páginas, troca de textos, menus etc..
+                  Como funciona ?
+                  Oferecemos suporte para manutenção mensal de sites. Para sites criados por outras empresas, efetuamos uma avaliação na programação com a intuito de verificar se nossa equipe tem o conhecimento necessário para realizar todos os ajustes necessários.
+                  Cada empresa de web, utiliza um estilo de programação, por esse motivo é necessário fazer essa avaliação antes.
+                  Entre em contato com a Projeto Web, envie o endereço do seu site, informe quais ajustes deseja fazer e nossa equipe vai lhe retornar o quanto antes.
+                  Importante: atualização de site não dá direito a troca de layout/cores, apenas de conteúdo / informações(textos, fotos, inclusão e exclusão de páginas).</p>
+                <div><a href="#">Saiba Mais</a></div>
               </div>
             </div>
           </div>
@@ -255,7 +317,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features section-bg">
+    <!--<section id="features" class="features section-bg">
       <div class="container">
 
         <div class="section-title">
@@ -339,8 +401,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-in">Portfolio</h2>
-          <p data-aos="fade-in">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 data-aos="fade-in">Portfólio</h2>
+          <p data-aos="fade-in">Aqui você encontrará sites belíssimos e extremamente elegantes, também personalizamos um site do jeito que você sempre sonhou. Temos um preço justo e procuramos ajudar a empreendedores e profissioanais que querem aumentar seus lucros de forma inteligente diante dessa pandemia.</p>
         </div>
 
         <div class="row">
@@ -355,36 +417,38 @@
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <!--<img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""> -->
+              <img src="assets/img/sobrenos.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
+                <!--<a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"></a>-->
+                <a href="portfolio-details.html"></a>
               </div>
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <a href="Projeto04/index.html" target="_blank"><h4>Visualizar Site</h4>
+                <p>Site 101</p></a>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <!--<img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">-->
+              <img src="assets/img/sobrenos.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
+                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"></a>
+                <a href="portfolio-details.html" title="More Details"></a>
               </div>
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <a href="#"><h4>Visualizar Site</h4>
+                <p>Site 02</p></a>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -392,13 +456,13 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Site 03</h4>
+                <p>$00</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -406,13 +470,13 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Site 04</h4>
+                <p>$00</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -420,13 +484,13 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Site 05</h4>
+                <p>$00</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -434,13 +498,13 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>Site 06</h4>
+                <p>$00</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -448,13 +512,13 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>Card 1</h4>
+                <h4>Site 07</h4>
                 <p>Card</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -462,13 +526,13 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Site 08</h4>
+                <p>$00</p>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
@@ -476,8 +540,8 @@
                 <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Site 09</h4>
+                <p>$00</p>
               </div>
             </div>
           </div>
@@ -488,7 +552,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
+    <!-- <section id="team" class="team section-bg">
       <div class="container">
 
         <div class="section-title">
