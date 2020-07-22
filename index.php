@@ -531,6 +531,76 @@
             </div>
           </div>
 
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-111.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-111" target="blank"><h4>Visualizar Site</h4>
+                <p>111</p></a>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-112.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-112" target="blank"><h4>Visualizar Site</h4>
+                <p>112</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-113.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-113" target="blank"><h4>Visualizar Site</h4>
+                <p>113</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-114.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-114" target="blank"><h4>Visualizar Site</h4>
+                <p>114</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-115.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-115" target="blank"><h4>Visualizar Site</h4>
+                <p>115</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-116.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-116" target="blank"><h4>Visualizar Site</h4>
+                <p>116</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-117.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-117" target="blank"><h4>Visualizar Site</h4>
+                <p>117</p></a>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
