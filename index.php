@@ -305,7 +305,7 @@
                   Como funciona ?
                   Oferecemos suporte para manutenção mensal de sites. Para sites criados por outras empresas, efetuamos uma avaliação na programação com a intuito de verificar se nossa equipe tem o conhecimento necessário para realizar todos os ajustes necessários.
                   Cada empresa de web, utiliza um estilo de programação, por esse motivo é necessário fazer essa avaliação antes.
-                  Entre em contato com a Projeto Web, envie o endereço do seu site, informe quais ajustes deseja fazer e nossa equipe vai lhe retornar o quanto antes.
+                  Entre em contato com a WJSites, envie o endereço do seu site, informe quais ajustes deseja fazer e nossa equipe vai lhe retornar o quanto antes.
                   Importante: atualização de site não dá direito a troca de layout/cores, apenas de conteúdo / informações(textos, fotos, inclusão e exclusão de páginas).</p>
                 <div><a href="#">Saiba Mais</a></div>
               </div>
@@ -405,6 +405,19 @@
           <p data-aos="fade-in">Aqui você encontrará sites belíssimos e extremamente elegantes, também personalizamos um site do jeito que você sempre sonhou. Temos um preço justo e procuramos ajudar a empreendedores e profissioanais que querem aumentar seus lucros de forma inteligente diante dessa pandemia.</p>
         </div>
 
+        <div class="section-title">
+          <h3 data-aos="fade-in">ATENÇÃO! Tenha em mente essas palavras ao visualizar cada site</h3>
+          <p data-aos="fade-in">Ao ver o site imagine cada detalhe com suas informações, com as fotos que você queira usar, com o conteúdo que queira colocar no seu sonhado site. Tenha em mente que os sites tem temas aleatórios então não ache que determinado site não é adpatável para voçê porque é um modelo de restaurante por exemplo, tudo será mudado para agradar a voçê, fotos, títulos, conteúdo etc</p>
+        </div>
+
+        <div class="section-title" style="color: #390099;">
+        <h1 data-aos="fade-in">Tá esperando o que pra escolher seu site?</h1>
+        </div>
+
+        <div class="section-title" style="color: #5200e0;">
+        <h1 data-aos="fade-in">Promoção por tempo limitado</h1>
+        </div>
+
         <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
@@ -419,15 +432,10 @@
         <div class="row portfolio-container" data-aos="fade-up">
           <div class="col-lg-2 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <!--<img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""> -->
-              <img src="assets/img/sobrenos.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <!--<a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"></a>-->
-                <a href="portfolio-details.html"></a>
-              </div>
+              <img src="assets/img/port_site/site_101.jpg" style="height: 100px; width:250px" class="" alt="">
               <div class="portfolio-info">
-                <a href="Projeto04/index.html" target="_blank"><h4>Visualizar Site</h4>
-                <p>Site 101</p></a>
+                <a href="Projeto-101/index.html" target="_blank"><h4>Visualizar Site</h4>
+                <p>101</p></a>
               </div>
             </div>
           </div>
@@ -435,113 +443,90 @@
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <!--<img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">-->
-              <img src="assets/img/sobrenos.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"></a>
-                <a href="portfolio-details.html" title="More Details"></a>
-              </div>
+              <img src="assets/img/port_site/site_102.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <a href="#"><h4>Visualizar Site</h4>
-                <p>Site 02</p></a>
+                <a href="Projeto-102/index.html" target="_blank"><h4>Visualizar Site</h4>
+                <p>102</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-103.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 03</h4>
-                <p>$00</p>
+                <a href="Projeto-103/index.html" target="blank"><h4>Visualizar Site</h4>
+                <p>103</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-104.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 04</h4>
-                <p>$00</p>
+                <a href="Projeto-104/index.html" target="blank"><h4>Visualizar Site</h4>
+                <p>104</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-105.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 05</h4>
-                <p>$00</p>
+                <a href="Projeto-105" target="blank"><h4>Visualizar Site</h4>
+                <p>105</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-106.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 06</h4>
-                <p>$00</p>
+                <a href="Projeto-106/index.html" target="blank"><h4>Visualizar Site</h4>
+                <p>106</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-107.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 07</h4>
-                <p>Card</p>
+                <a href="Projeto-107/index.html" target="blank"><h4>Visualizar Site</h4>
+                <p>107</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-108.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 08</h4>
-                <p>$00</p>
+                <a href="Projeto-108" target="blank"><h4>Visualizar Site</h4>
+                <p>108</p></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-2 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="icofont-plus-circle"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
-              </div>
+              <img src="assets/img/port_site/site-109.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Site 09</h4>
-                <p>$00</p>
+                <a href="Projeto-109" target="blank"><h4>Visualizar Site</h4>
+                <p>109</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-110.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-110" target="blank"><h4>Visualizar Site</h4>
+                <p>110</p></a>
               </div>
             </div>
           </div>
@@ -552,7 +537,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
-    <!-- <section id="team" class="team section-bg">
+     <!--<section id="team" class="team section-bg">
       <div class="container">
 
         <div class="section-title">
@@ -561,7 +546,7 @@
         </div>
 
         <div class="row">
-          <div class="col-xl-3 col-lg-4 col-md-6">
+          <div class="col-xl-3 col-lg-6 col-md-6">
             <div class="member" data-aos="fade-up">
               <div class="pic"><img src="assets/img/team/team-1.jpg" alt=""></div>
               <h4>Walter White</h4>
