@@ -601,6 +601,26 @@
             </div>
           </div>
 
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-118.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-118" target="blank"><h4>Visualizar Site</h4>
+                <p>118</p></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port_site/site-119.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <a href="Projeto-119" target="blank"><h4>Visualizar Site</h4>
+                <p>119</p></a>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
